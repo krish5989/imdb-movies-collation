@@ -28,5 +28,5 @@ dataset can be found here: [datasets](https://datasets.imdbws.com/)
 
 Screenshot from the output excel sheet:
 
-![Excel Output](/Users/sukakrish/krish-workspace/imdb-movies-analysis/excel_output.png)
+![ExcelOutput](excel_output.png)
 
